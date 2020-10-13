@@ -4,7 +4,7 @@ Created on Tue Mar 20 12:58:16 2018
 
 @author: Hayreen
 """
-def printok():
+def printok(ts = 0.13):
     
     import time
     print(' '*8,'** *')
